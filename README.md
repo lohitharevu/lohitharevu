@@ -4,10 +4,10 @@
 
 ## Hi 👋 I'm Lohitha
 
-🎓 Student at VIT-AP
-🤖 Currently on a track of Machine Learning
-💡 Exploring new technologies that solve real world problems
-✨ Faith over Fear
+- 🎓 Student at VIT-AP
+- 🤖 Currently on a track of Machine Learning
+- 💡 Exploring new technologies that solve real world problems
+- ✨ Faith over Fear
 
 ---
 
@@ -68,10 +68,10 @@
 
 ## 🚀 Current Focus
 
-✔ Machine Learning
-✔ AI Applications
-✔ Hackathons and Projects
-✔ Real-world Problem Solving
+- Machine Learning
+- AI Applications
+- Hackathons and Projects
+- Real-world Problem Solving
 
 ---
 
